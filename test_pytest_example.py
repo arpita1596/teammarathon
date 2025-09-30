@@ -1,4 +1,4 @@
-from code_to_test import add
+from .code_to_test import add
 
 
 def test_add_function():
